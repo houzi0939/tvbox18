@@ -158,6 +158,12 @@
       }
     },
     {
+      "key": "乐播",
+      "name": "乐播云",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/at/json"
+    },
+    {
       "key": "人人",
       "name": "☃️我为人人┃4K纯净",
       "type": 3,
